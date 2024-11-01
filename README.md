@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericmeli08
-- 👀 I’m interested in dev web mobile desktop
-- 🌱 I’m currently learning mobile and web dev
+- 👀 I’m interested in dev web mobile desktop and AI
+- 🌱 I’m currently learning mobile and web dev and starting marchine learning 
 - 💞️ I’m looking to collaborate on mobile dev
 - 📫 How to reach me 681960930
 
