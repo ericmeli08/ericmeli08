@@ -13,7 +13,7 @@
 <div align="center">
 <img src="https://camo.githubusercontent.com/2a47fbcdbe3728341576102d52bd57d404ad50658d902aeeb6cb4f1b933fc985/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457864324a3161335131635442304d476732643270305a33673265544a7059334a33613352716433567a646e453161326c3361335a7262695a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
 </div>
----
+
 
 ### 👋 À propos de moi
 
@@ -32,6 +32,21 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=laravel,vue,js,html,css,flutter,dart,mysql,firebase,java,spring,kotlin,git,github,figma,postman&theme=dark" />
+
+</div>
+
+---
+
+###  Projet phare: JMC Platform
+
+<div align="center">
+
+**Plateforme éducative complète pour Jeunes Mentors Center**  
+Développée avec Laravel 12 · Inertia.js · Vue.js 3: gestion des formations, inscriptions et paiements en ligne 
+
+<a href="https://formation.jeunesmentors.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Voir_le_site-visiter-7c3aed?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -62,6 +77,11 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ericmeli08/ericmeli08/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <div align="center">
