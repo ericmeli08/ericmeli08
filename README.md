@@ -17,7 +17,7 @@
 
 ### 👋 À propos de moi
 
-- 🎓 Étudiant en Génie Logiciel à l'**IUG** (Institut Universitaire du Golfe de Guinée), Douala
+- 🎓 Étudiant en Master dans les systeme Intelligent à l'université de Doula 
 - 💼 En stage chez **JEUNES MENTORS SARL**, où je travaille sur la **JMC Platform** (plateforme éducative)
 - 🚀 Stack principale : **Laravel 12 · Inertia.js · Vue.js 3** (Composition API)
 - 📱 Aussi à l'aise en mobile : **Flutter**, backend **Spring Boot**
